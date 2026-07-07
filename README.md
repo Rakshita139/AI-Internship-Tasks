@@ -215,6 +215,7 @@ This internship project provided practical experience in:
 
 The projects helped strengthen practical AI and Python programming skills.
 
+---
 
 ## Author
 
